@@ -1,6 +1,5 @@
 # Password generator V2
 import secrets
-import random
 from cryptography.fernet import Fernet
 import string
 import json
